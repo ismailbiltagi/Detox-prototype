@@ -1,0 +1,17 @@
+#s-8b703400-348a-4a05-8527-dbc33face78e #s-Button_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-8b703400-348a-4a05-8527-dbc33face78e #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-8b703400-348a-4a05-8527-dbc33face78e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
